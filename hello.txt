@@ -1,2 +1,4 @@
 Hello word !!!
 N'importe quoi
+
+Git commit -m "message"
